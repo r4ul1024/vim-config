@@ -28,7 +28,7 @@
 
 ---
 
-** Not a tutorial project **
+**Not a tutorial project**
 
 ---
 
@@ -69,4 +69,4 @@ _Example screenshot:_
 
 ---
 
-**Это не учебный проект **
+**Это не учебный проект**
