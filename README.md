@@ -28,7 +28,7 @@
 
 ---
 
-This is my working config, developed gradually with AI assistance.
+Not a tutorial project
 
 ---
 
@@ -69,4 +69,4 @@ _Example screenshot:_
 
 ---
 
-Это мой рабочий конфиг, который писал и улучшал с помощью ИИ.
+**Не учебный проект.**
